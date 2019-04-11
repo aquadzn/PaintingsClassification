@@ -10,7 +10,6 @@ Classification d'environ 1000 peintures de quatre peintres différents :
  
 ```db.show_batch()```<br>
 ![Data batch](https://image.noelshack.com/fichiers/2019/15/4/1554977638-1.png)
-<br>
 ```learn.recorder.plot()```<br>
 ![Data batch](https://image.noelshack.com/fichiers/2019/15/4/1554977638-2.png)
 <br>
