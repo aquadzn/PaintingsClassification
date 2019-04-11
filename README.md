@@ -8,14 +8,14 @@ Classification d'environ 1000 peintures de quatre peintres différents :
  - Aïvazovsi
  - Renoir
  
-```db.show_batch()```
+```db.show_batch()```<br>
 ![Data batch](https://image.noelshack.com/fichiers/2019/15/4/1554977638-1.png)
-
-```learn.recorder.plot()```
+<br>
+```learn.recorder.plot()```<br>
 ![Data batch](https://image.noelshack.com/fichiers/2019/15/4/1554977638-2.png)
-
-```interp.plot_top_losses(9, figsize=(14,9))```
+<br>
+```interp.plot_top_losses(9, figsize=(14,9))```<br>
 ![Data batch](https://image.noelshack.com/fichiers/2019/15/4/1554977638-3.png)
-
-```interp.plot_confusion_matrix()```
+<br>
+```interp.plot_confusion_matrix()```<br>
 ![Data batch](https://image.noelshack.com/fichiers/2019/15/4/1554977638-4.png)
